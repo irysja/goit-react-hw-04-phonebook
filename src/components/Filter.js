@@ -1,4 +1,3 @@
-
 import React from 'react';
 import PropTypes from 'prop-types';
 
@@ -19,4 +18,3 @@ Filter.propTypes = {
 };
 
 export default Filter;
-
